@@ -13,7 +13,7 @@ This project presents a comprehensive analysis of car sales data using Power BI.
 2. Open it using [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
 ## Data Source
-The report uses 
+The report uses car_sales.csv
 
 ## Author
 Created by Rahul Patwal.
